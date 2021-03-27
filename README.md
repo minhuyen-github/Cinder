@@ -1,4 +1,4 @@
-# Cinder
+# Cinder - Calvin Hacks 2021
 ## Inspiration
 We were inspired by Tinder swipe animation and other travel planning mobile application. By combining the animation and the travel planning aspects, users can choose to save their liked cities for their next trips!
 ## What it does
@@ -12,5 +12,9 @@ The time zone differences have made it difficult for us to collaborate together,
 - Beautiful design.
 - Floating and expandable button!
 ## What we learned
-
+We have learned how to create the swipe animation and the special button!
 ## What's next for Cinder
+- Bug fixings.
+- Add more features: booking, messaging, displaying the plan.
+- Authenticate users.
+- Profile screen.
